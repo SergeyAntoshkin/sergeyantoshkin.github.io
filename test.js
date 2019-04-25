@@ -1,1 +1,1 @@
-window.location.href = "https://next-will-die.000webhostapp.com/"
+window.location.href = "https://battiest-explosion.000webhostapp.com/"
